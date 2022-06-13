@@ -1,4 +1,4 @@
-<img src = "pics/google-apps-script_logo-removebg-preview_1.png" width = 400>
+<center><img src = "pics/google-apps-script_logo-removebg-preview_1.png"></center>
 
 # **GCP APP SCRIPT PROJECT**
 
