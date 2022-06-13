@@ -1,4 +1,4 @@
-<img src = "readmeimages/google-cloud-logo-1.png" width = 500>
+<img src = "readme.md/google-apps-script_logo-removebg-preview_1.png" width = 500>
 
 # **GCP APP SCRIPT PROJECT**
 
